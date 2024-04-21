@@ -8,3 +8,8 @@ img {
     display: block;
     margin: auto;
 }
+
+a {
+    color:white;
+    text-decoration: none;
+}
